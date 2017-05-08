@@ -1,0 +1,9 @@
+{
+  "msg": "",
+  "data":{
+    "description":"描述",
+    "fileType":2,
+    "fileUrl":"http://10.10.6.63:8080/tv/aaaa.mp4"
+  },
+  "code":0 
+}
